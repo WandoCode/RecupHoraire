@@ -1,4 +1,8 @@
-const SpreadsheetFactory = async (APIKey, spreadsheetId, rangeParam) => {
+const SpreadsheetFactory = async (
+  APIKey = 0,
+  spreadsheetId = 0,
+  rangeParam
+) => {
   let spreadsheet = []
   let range = rangeParam || 'A1:R55'
 

@@ -11,13 +11,16 @@ import layout from './Script/Views/layout.js'
 const rootElement = document.getElementById('root')
 
 const main = async () => {
-  const envVar = await loadEnvVariables()
+  // DEV
+  // const envVar = await loadEnvVariables()
 
-  const allSheets = await loadSheetsFromSpreadsheet(
-    envVar.API_key,
-    envVar.spreadSheetID
-  )
+  // const allSheets = await loadSheetsFromSpreadsheet(
+  //   envVar.API_key,
+  //   envVar.spreadSheetID
+  // )
 
+  const allSheets = await loadSheetsFromSpreadsheet()
+  // FIN DEV
   const schedules = getSchedulesArray(allSheets)
 
   rootElement.innerHTML = layout()
