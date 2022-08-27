@@ -1,0 +1,826 @@
+{
+  "spreadsheetId": "1t-sCJ_CmXedbU8M7BlZhdMHHIFOgKO6Mgm998EXuz20",
+  "properties": {
+    "title": "HORAIRE TEST VERSION 06032020",
+    "locale": "fr_FR",
+    "autoRecalc": "ON_CHANGE",
+    "timeZone": "America/Los_Angeles",
+    "defaultFormat": {
+      "backgroundColor": {
+        "red": 1,
+        "green": 1,
+        "blue": 1
+      },
+      "padding": {
+        "right": 3,
+        "left": 3
+      },
+      "verticalAlignment": "BOTTOM",
+      "wrapStrategy": "OVERFLOW_CELL",
+      "textFormat": {
+        "foregroundColor": {},
+        "fontFamily": "Arial",
+        "fontSize": 10,
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "foregroundColorStyle": {
+          "rgbColor": {}
+        }
+      },
+      "backgroundColorStyle": {
+        "rgbColor": {
+          "red": 1,
+          "green": 1,
+          "blue": 1
+        }
+      }
+    },
+    "spreadsheetTheme": {
+      "primaryFontFamily": "Calibri",
+      "themeColors": [
+        {
+          "colorType": "TEXT",
+          "color": {
+            "rgbColor": {}
+          }
+        },
+        {
+          "colorType": "BACKGROUND",
+          "color": {
+            "rgbColor": {
+              "red": 1,
+              "green": 1,
+              "blue": 1
+            }
+          }
+        },
+        {
+          "colorType": "ACCENT1",
+          "color": {
+            "rgbColor": {
+              "red": 0.30980393,
+              "green": 0.5058824,
+              "blue": 0.7411765
+            }
+          }
+        },
+        {
+          "colorType": "ACCENT2",
+          "color": {
+            "rgbColor": {
+              "red": 0.7529412,
+              "green": 0.3137255,
+              "blue": 0.3019608
+            }
+          }
+        },
+        {
+          "colorType": "ACCENT3",
+          "color": {
+            "rgbColor": {
+              "red": 0.60784316,
+              "green": 0.73333335,
+              "blue": 0.34901962
+            }
+          }
+        },
+        {
+          "colorType": "ACCENT4",
+          "color": {
+            "rgbColor": {
+              "red": 0.5019608,
+              "green": 0.39215687,
+              "blue": 0.63529414
+            }
+          }
+        },
+        {
+          "colorType": "ACCENT5",
+          "color": {
+            "rgbColor": {
+              "red": 0.29411766,
+              "green": 0.6745098,
+              "blue": 0.7764706
+            }
+          }
+        },
+        {
+          "colorType": "ACCENT6",
+          "color": {
+            "rgbColor": {
+              "red": 0.96862745,
+              "green": 0.5882353,
+              "blue": 0.27450982
+            }
+          }
+        },
+        {
+          "colorType": "LINK",
+          "color": {
+            "rgbColor": {
+              "blue": 1
+            }
+          }
+        }
+      ]
+    }
+  },
+  "sheets": [
+    {
+      "properties": {
+        "sheetId": 1983569237,
+        "title": "Aout 22-28",
+        "index": 0,
+        "sheetType": "GRID",
+        "gridProperties": {
+          "rowCount": 1000,
+          "columnCount": 26
+        }
+      },
+      "merges": [
+        {
+          "sheetId": 1983569237,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 3,
+          "endColumnIndex": 5
+        },
+        {
+          "sheetId": 1983569237,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 5,
+          "endColumnIndex": 7
+        },
+        {
+          "sheetId": 1983569237,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 7,
+          "endColumnIndex": 9
+        },
+        {
+          "sheetId": 1983569237,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 9,
+          "endColumnIndex": 11
+        },
+        {
+          "sheetId": 1983569237,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 11,
+          "endColumnIndex": 13
+        },
+        {
+          "sheetId": 1983569237,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 13,
+          "endColumnIndex": 15
+        },
+        {
+          "sheetId": 1983569237,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 15,
+          "endColumnIndex": 17
+        }
+      ]
+    },
+    {
+      "properties": {
+        "sheetId": 389980411,
+        "title": "Aout 29-4",
+        "index": 1,
+        "sheetType": "GRID",
+        "gridProperties": {
+          "rowCount": 1000,
+          "columnCount": 26
+        }
+      },
+      "merges": [
+        {
+          "sheetId": 389980411,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 3,
+          "endColumnIndex": 5
+        },
+        {
+          "sheetId": 389980411,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 5,
+          "endColumnIndex": 7
+        },
+        {
+          "sheetId": 389980411,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 7,
+          "endColumnIndex": 9
+        },
+        {
+          "sheetId": 389980411,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 9,
+          "endColumnIndex": 11
+        },
+        {
+          "sheetId": 389980411,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 11,
+          "endColumnIndex": 13
+        },
+        {
+          "sheetId": 389980411,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 13,
+          "endColumnIndex": 15
+        },
+        {
+          "sheetId": 389980411,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 15,
+          "endColumnIndex": 17
+        }
+      ]
+    },
+    {
+      "properties": {
+        "sheetId": 842453570,
+        "title": "Sept 5-11",
+        "index": 2,
+        "sheetType": "GRID",
+        "gridProperties": {
+          "rowCount": 1000,
+          "columnCount": 26
+        }
+      },
+      "merges": [
+        {
+          "sheetId": 842453570,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 3,
+          "endColumnIndex": 5
+        },
+        {
+          "sheetId": 842453570,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 5,
+          "endColumnIndex": 7
+        },
+        {
+          "sheetId": 842453570,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 7,
+          "endColumnIndex": 9
+        },
+        {
+          "sheetId": 842453570,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 9,
+          "endColumnIndex": 11
+        },
+        {
+          "sheetId": 842453570,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 11,
+          "endColumnIndex": 13
+        },
+        {
+          "sheetId": 842453570,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 13,
+          "endColumnIndex": 15
+        },
+        {
+          "sheetId": 842453570,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 15,
+          "endColumnIndex": 17
+        }
+      ]
+    },
+    {
+      "properties": {
+        "sheetId": 1419364378,
+        "title": "Sept 12-18",
+        "index": 3,
+        "sheetType": "GRID",
+        "gridProperties": {
+          "rowCount": 1000,
+          "columnCount": 26
+        }
+      },
+      "merges": [
+        {
+          "sheetId": 1419364378,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 3,
+          "endColumnIndex": 5
+        },
+        {
+          "sheetId": 1419364378,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 5,
+          "endColumnIndex": 7
+        },
+        {
+          "sheetId": 1419364378,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 7,
+          "endColumnIndex": 9
+        },
+        {
+          "sheetId": 1419364378,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 9,
+          "endColumnIndex": 11
+        },
+        {
+          "sheetId": 1419364378,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 11,
+          "endColumnIndex": 13
+        },
+        {
+          "sheetId": 1419364378,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 13,
+          "endColumnIndex": 15
+        },
+        {
+          "sheetId": 1419364378,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 15,
+          "endColumnIndex": 17
+        }
+      ]
+    },
+    {
+      "properties": {
+        "sheetId": 154775084,
+        "title": "Sept 19-25",
+        "index": 4,
+        "sheetType": "GRID",
+        "gridProperties": {
+          "rowCount": 1000,
+          "columnCount": 26
+        }
+      },
+      "merges": [
+        {
+          "sheetId": 154775084,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 3,
+          "endColumnIndex": 5
+        },
+        {
+          "sheetId": 154775084,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 5,
+          "endColumnIndex": 7
+        },
+        {
+          "sheetId": 154775084,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 7,
+          "endColumnIndex": 9
+        },
+        {
+          "sheetId": 154775084,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 9,
+          "endColumnIndex": 11
+        },
+        {
+          "sheetId": 154775084,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 11,
+          "endColumnIndex": 13
+        },
+        {
+          "sheetId": 154775084,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 13,
+          "endColumnIndex": 15
+        },
+        {
+          "sheetId": 154775084,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 15,
+          "endColumnIndex": 17
+        }
+      ]
+    },
+    {
+      "properties": {
+        "sheetId": 1747737870,
+        "title": "Sept 26-2",
+        "index": 5,
+        "sheetType": "GRID",
+        "gridProperties": {
+          "rowCount": 1000,
+          "columnCount": 26
+        }
+      },
+      "merges": [
+        {
+          "sheetId": 1747737870,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 3,
+          "endColumnIndex": 5
+        },
+        {
+          "sheetId": 1747737870,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 5,
+          "endColumnIndex": 7
+        },
+        {
+          "sheetId": 1747737870,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 7,
+          "endColumnIndex": 9
+        },
+        {
+          "sheetId": 1747737870,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 9,
+          "endColumnIndex": 11
+        },
+        {
+          "sheetId": 1747737870,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 11,
+          "endColumnIndex": 13
+        },
+        {
+          "sheetId": 1747737870,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 13,
+          "endColumnIndex": 15
+        },
+        {
+          "sheetId": 1747737870,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 15,
+          "endColumnIndex": 17
+        }
+      ]
+    },
+    {
+      "properties": {
+        "sheetId": 521173016,
+        "title": "Oct 3-9",
+        "index": 6,
+        "sheetType": "GRID",
+        "gridProperties": {
+          "rowCount": 1000,
+          "columnCount": 26
+        }
+      },
+      "merges": [
+        {
+          "sheetId": 521173016,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 3,
+          "endColumnIndex": 5
+        },
+        {
+          "sheetId": 521173016,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 5,
+          "endColumnIndex": 7
+        },
+        {
+          "sheetId": 521173016,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 7,
+          "endColumnIndex": 9
+        },
+        {
+          "sheetId": 521173016,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 9,
+          "endColumnIndex": 11
+        },
+        {
+          "sheetId": 521173016,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 11,
+          "endColumnIndex": 13
+        },
+        {
+          "sheetId": 521173016,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 13,
+          "endColumnIndex": 15
+        },
+        {
+          "sheetId": 521173016,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 15,
+          "endColumnIndex": 17
+        }
+      ]
+    },
+    {
+      "properties": {
+        "sheetId": 813964771,
+        "title": "Oct 10-16",
+        "index": 7,
+        "sheetType": "GRID",
+        "gridProperties": {
+          "rowCount": 1000,
+          "columnCount": 26
+        }
+      },
+      "merges": [
+        {
+          "sheetId": 813964771,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 3,
+          "endColumnIndex": 5
+        },
+        {
+          "sheetId": 813964771,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 5,
+          "endColumnIndex": 7
+        },
+        {
+          "sheetId": 813964771,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 7,
+          "endColumnIndex": 9
+        },
+        {
+          "sheetId": 813964771,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 9,
+          "endColumnIndex": 11
+        },
+        {
+          "sheetId": 813964771,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 11,
+          "endColumnIndex": 13
+        },
+        {
+          "sheetId": 813964771,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 13,
+          "endColumnIndex": 15
+        },
+        {
+          "sheetId": 813964771,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 15,
+          "endColumnIndex": 17
+        }
+      ]
+    },
+    {
+      "properties": {
+        "sheetId": 976931962,
+        "title": "Oct 17-23",
+        "index": 8,
+        "sheetType": "GRID",
+        "gridProperties": {
+          "rowCount": 1000,
+          "columnCount": 26
+        }
+      },
+      "merges": [
+        {
+          "sheetId": 976931962,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 3,
+          "endColumnIndex": 5
+        },
+        {
+          "sheetId": 976931962,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 5,
+          "endColumnIndex": 7
+        },
+        {
+          "sheetId": 976931962,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 7,
+          "endColumnIndex": 9
+        },
+        {
+          "sheetId": 976931962,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 9,
+          "endColumnIndex": 11
+        },
+        {
+          "sheetId": 976931962,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 11,
+          "endColumnIndex": 13
+        },
+        {
+          "sheetId": 976931962,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 13,
+          "endColumnIndex": 15
+        },
+        {
+          "sheetId": 976931962,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 15,
+          "endColumnIndex": 17
+        }
+      ]
+    },
+    {
+      "properties": {
+        "sheetId": 1497090670,
+        "title": "Oct 24-30",
+        "index": 9,
+        "sheetType": "GRID",
+        "gridProperties": {
+          "rowCount": 1000,
+          "columnCount": 26
+        }
+      },
+      "merges": [
+        {
+          "sheetId": 1497090670,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 3,
+          "endColumnIndex": 5
+        },
+        {
+          "sheetId": 1497090670,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 5,
+          "endColumnIndex": 7
+        },
+        {
+          "sheetId": 1497090670,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 7,
+          "endColumnIndex": 9
+        },
+        {
+          "sheetId": 1497090670,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 9,
+          "endColumnIndex": 11
+        },
+        {
+          "sheetId": 1497090670,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 11,
+          "endColumnIndex": 13
+        },
+        {
+          "sheetId": 1497090670,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 13,
+          "endColumnIndex": 15
+        },
+        {
+          "sheetId": 1497090670,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 15,
+          "endColumnIndex": 17
+        }
+      ]
+    },
+    {
+      "properties": {
+        "sheetId": 293783712,
+        "title": "Nov 1-6",
+        "index": 10,
+        "sheetType": "GRID",
+        "gridProperties": {
+          "rowCount": 1000,
+          "columnCount": 26
+        }
+      },
+      "merges": [
+        {
+          "sheetId": 293783712,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 3,
+          "endColumnIndex": 5
+        },
+        {
+          "sheetId": 293783712,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 5,
+          "endColumnIndex": 7
+        },
+        {
+          "sheetId": 293783712,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 7,
+          "endColumnIndex": 9
+        },
+        {
+          "sheetId": 293783712,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 9,
+          "endColumnIndex": 11
+        },
+        {
+          "sheetId": 293783712,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 11,
+          "endColumnIndex": 13
+        },
+        {
+          "sheetId": 293783712,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 13,
+          "endColumnIndex": 15
+        },
+        {
+          "sheetId": 293783712,
+          "startRowIndex": 0,
+          "endRowIndex": 1,
+          "startColumnIndex": 15,
+          "endColumnIndex": 17
+        }
+      ]
+    }
+  ],
+  "spreadsheetUrl": "https://docs.google.com/spreadsheets/d/1t-sCJ_CmXedbU8M7BlZhdMHHIFOgKO6Mgm998EXuz20/edit"
+}

@@ -7,7 +7,6 @@
     "curl": "^0.1.4",
     "google-spreadsheet": "^3.3.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/WandoCode/RecupHoraire/issues"
   },
-  "homepage": "https://github.com/WandoCode/RecupHoraire#readme"
+  "homepage": "https://github.com/WandoCode/RecupHoraire#readme",
+  "directories": {
+    "test": "test"
+  }
 }
