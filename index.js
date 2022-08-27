@@ -93,3 +93,7 @@ const getScheduleHours = (formattedVal, sheetModel, posX, posY) => {
 }
 
 await main()
+
+// TODO: Passer à react
+// Ajouter un router
+// Ajouter un login
