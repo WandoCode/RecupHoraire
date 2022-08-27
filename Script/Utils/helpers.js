@@ -1,14 +1,11 @@
 import { SpreadsheetFactory } from '../../Script/Factory/GoogleSpreadsheet.js'
 
 const loadEnvVariables = async () => {
-  // DEV
-  // const env_var_reponse = await fetch('./env.json')
-  // const env_var = await env_var_reponse.json()
-  // const API_key = env_var.GOOGLE_API_KEY
-  // const spreadSheetID = env_var.spreadSheetID
-  const API_KEY = 0
-  const spreadSheetID = 0
-  // FIN DEV
+  const env_var_reponse = await fetch('./env.json')
+  const env_var = await env_var_reponse.json()
+  const API_key = env_var.GOOGLE_API_KEY
+  const spreadSheetID = env_var.spreadSheetID
+
   return { API_key, spreadSheetID }
 }
 

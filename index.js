@@ -13,14 +13,14 @@ const rootElement = document.getElementById('root')
 const main = async () => {
   // DEV
   // const envVar = await loadEnvVariables()
-
-  // const allSheets = await loadSheetsFromSpreadsheet(
-  //   envVar.API_key,
-  //   envVar.spreadSheetID
-  // )
-
-  const allSheets = await loadSheetsFromSpreadsheet(0, 0)
+  const envVar = { API_key: 0, spreadSheetID: 0 }
   // FIN DEV
+
+  const allSheets = await loadSheetsFromSpreadsheet(
+    envVar.API_key,
+    envVar.spreadSheetID
+  )
+
   const schedules = getSchedulesArray(allSheets)
 
   rootElement.innerHTML = layout()
