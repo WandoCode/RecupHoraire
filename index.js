@@ -19,7 +19,7 @@ const main = async () => {
   //   envVar.spreadSheetID
   // )
 
-  const allSheets = await loadSheetsFromSpreadsheet()
+  const allSheets = await loadSheetsFromSpreadsheet(0, 0)
   // FIN DEV
   const schedules = getSchedulesArray(allSheets)
 
